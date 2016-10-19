@@ -1,0 +1,8 @@
+witaj git
+
+Elo mordo hehehehh
+<<<<<<< HEAD
+smieszne w luj
+=======
+trolololo
+>>>>>>> 683fabaf7657c5fbe1209f7860c11d071a7bc54c
